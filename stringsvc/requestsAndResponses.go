@@ -1,4 +1,4 @@
-package stringsvc
+package main
 
 type (
     uppercaseRequest struct {
